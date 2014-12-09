@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\bin\Debug\SQLTest.exe.config
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\bin\Debug\SQLTest.exe
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\bin\Debug\SQLTest.pdb
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\obj\Debug\SQLTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\obj\Debug\SQLTest.Form1.resources
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\obj\Debug\SQLTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\obj\Debug\SQLTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\obj\Debug\SQLTest.exe
+C:\Users\Administrator\Desktop\Fatih Form\SQLTest\SQLTest\obj\Debug\SQLTest.pdb
